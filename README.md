@@ -31,6 +31,7 @@ The results of the evaluation are summarized in the table below:
 #### Inception-V3
 
 - Validation Score = 0.94
+
 | Metric        | Value   |
 | ------------- | ------- |
 | Accuracy      | 0.94    |
@@ -41,6 +42,7 @@ The results of the evaluation are summarized in the table below:
 #### Xception
 
 - Validation Score = 0.9902
+
 | Metric        | Value   |
 | ------------- | ------- |
 | Accuracy      | 0.911   |
